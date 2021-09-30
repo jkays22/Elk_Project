@@ -8,13 +8,13 @@ https://github.com/jkays22/Elk_Project/blob/97268951fa42986a77413b5ea427a84278ec
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  - Ansible/Filebeat/Filebeat_Config.yml
-  - Ansible/Filebeat/filebeat-playbook.yml
-  - Ansible/MetricBeat/Metricbeat-Config.yml
-  - Ansible/MetricBeat/metricbeat-playbook.yml
-  - Ansible/ELK/Install-Elk.yml
-  - Ansible/Ansible_cfg/ansible.cfg
-  - Ansible/Ansible_cfg/hosts.yml
+  - https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Ansible/Filebeat/Filebeat_Config.yml
+  - https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Ansible/Filebeat/filebeat-playbook.yml
+  - https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Ansible/MetricBeat/Metricbeat-Config.yml
+  - https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Ansible/MetricBeat/metricbeat-playbook.yml
+  - https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Ansible/ELK/Install-Elk.yml
+  - https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Ansible/Ansible_cfg/ansible.cfg
+  - https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Ansible/Ansible_cfg/hosts.yml
 
 This document contains the following details:
 - Description of the Topologu
@@ -78,9 +78,8 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Images/metricbeat_data_ELK.PNG
-Images/system_log.PNG
-
+https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Images/metricbeat_data_ELK.PNG
+https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Images/system_log.PNG
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
 - 10.0.0.5
