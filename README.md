@@ -17,7 +17,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
   - https://github.com/jkays22/Elk_Project/blob/970a9e49ca597319f323368270bd3aa2a6970d35/Elk_Project/Ansible/Ansible_cfg/hosts.yml
 
 This document contains the following details:
-- Description of the Topologu
+- Description of the Topology
 - Access Policies
 - ELK Configuration
   - Beats in Use
