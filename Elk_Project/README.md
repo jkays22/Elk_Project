@@ -77,8 +77,9 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Images/metricbeat_data_ELK.PNG
-Images/system_log.PNG
+![metricbeat_data_ELK](https://user-images.githubusercontent.com/88590862/158228508-b860ec63-9f53-4009-ade3-6a28835dbc81.PNG)
+![system_log](https://user-images.githubusercontent.com/88590862/158228532-7ae48f92-b564-47ad-949c-4fd3b5223483.PNG)
+
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
